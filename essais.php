@@ -11,6 +11,6 @@
 	echo 'j'ai pété :-)';
 
 
-	echo ' ';
+	echo '  ';
 
 ?>
